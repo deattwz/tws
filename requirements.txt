@@ -1,0 +1,8 @@
+cachetools
+colorama
+fastapi
+httpx
+shortuuid
+uvicorn
+python-dotenv
+python-multipart
